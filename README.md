@@ -16,7 +16,9 @@ Windows 绿色便携版，无需安装。提供 **ThsLink 桌面版** 和 **ThsL
 
 **桌面快捷下单**
 
-![ThsLink v0.2.0 主窗口：快捷按钮、账户选择与 HTTP 接口开关](docs/images/main.png)
+![ThsLink v0.2.0 历史界面示意](docs/images/main.png)
+
+此图为 v0.2.0 历史截图，仅展示基本布局；当前 v0.2.8 的状态、设置和退出交互以本版说明为准。
 
 ## 支持什么
 
